@@ -5,6 +5,10 @@ A simple python script to automate the modbus address value enumerations, and st
   <li>pyModbusTCP</li>
 </ul>
 
+
+Download
+`git clone`
+
 If the server work correctly, the script show the data like <a href="/src/success_log.txt">this</a>:
 
 

@@ -6,8 +6,8 @@ A simple python script to automate the modbus address value enumerations, and st
 </ul>
 
 
-**Download**
-`git clone https://github.com/sudo-JACT/ModBusBruteForce.git`
+**Download:**
+ `git clone https://github.com/sudo-JACT/ModBusBruteForce.git`
 
 If the server work correctly, the script show the data like <a href="/src/success_log.txt">this</a>:
 

@@ -3,7 +3,12 @@ A simple python script to automate the modbus address value enumerations, and st
 <p>Libraries you need:</p>
 <ul>
   <li>pyModbusTCP</li>
+  <li>rich</li>
 </ul>
+
+
+![IM](https://user-images.githubusercontent.com/67701333/128315084-a1077a64-81b1-40d8-8076-25a2fd636add.png)
+
 
 
 **Download:**

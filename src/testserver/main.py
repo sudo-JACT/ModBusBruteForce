@@ -10,13 +10,16 @@ try:
     print("Server is running...")
     state=[0]
     while True:
-        DataBank.set_words(0, [int(uniform(0,200))])
+        DataBank.set_words(0, [int(uniform(0,100))])
+        
+        """
         DataBank.set_words(1, [int(uniform(0,200))])
         DataBank.set_words(2, [int(uniform(0,200))])
         DataBank.set_words(0, [int(uniform(1,200))])
         DataBank.set_words(1, [int(uniform(1,200))])
         DataBank.set_words(2, [int(uniform(1,200))])
         #DataBank.set_bits(0,[int(uniform(0,200))])
+        """
         if state!=DataBank.get_words(1):
             print(f"State: {state}")
             state=DataBank.get_words(1)

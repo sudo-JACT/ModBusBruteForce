@@ -1,0 +1,606 @@
+Address: 0
+Holding Registers Data: [23, 0]
+Input Registers Data: [11, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 2
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 4
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 6
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 8
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 10
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 12
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 14
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 16
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 18
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 20
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 22
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 24
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 26
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 28
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 30
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 32
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 34
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 36
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 38
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 40
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 42
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 44
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 46
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 48
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 50
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 52
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 54
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 56
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 58
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 60
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 62
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 64
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 66
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 68
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 70
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 72
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 74
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 76
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 78
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 80
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 82
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 84
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 86
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 88
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 90
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 92
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 94
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 96
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 98
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 100
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 102
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 104
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 106
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 108
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 110
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 112
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 114
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 116
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 118
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 120
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 122
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 124
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 126
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 128
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 130
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 132
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 134
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 136
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 138
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 140
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 142
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 144
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 146
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 148
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 150
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 152
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 154
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 156
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 158
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 160
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 162
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 164
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 166
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 168
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 170
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 172
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 174
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 176
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 178
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 180
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 182
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 184
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 186
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 188
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 190
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 192
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 194
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 196
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 198
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------
+Address: 200
+Holding Registers Data: [0, 0]
+Input Registers Data: [0, 0]
+Discrete Inputs Data: [False, False]
+Connection: True
+-------------------

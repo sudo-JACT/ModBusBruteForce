@@ -8,15 +8,15 @@ asci=tprint("ModBus Brute Force",font="random")
 
 host=console.input(f"[bold green]HOST:[/bold green] ")
 
-port=console.input(f"[bold green]PORT:[/bold green] ")
+port=int(console.input(f"[bold green]PORT:[/bold green] "))
 
 ad=console.input(f"[bold green]MAX ADDRESS:[/bold green] ")
 ad=int(ad)
 
 ID=console.input(f"[bold green]UNIT ID:[/bold green] ")
 
-if ID == "" or 0:
-    ID=1
+if ID == "" or ID == 0:
+    ID = 1
 
 client=ModbusClient(host=host, port=port, auto_open=True, auto_close=True, timeout=10)
 
